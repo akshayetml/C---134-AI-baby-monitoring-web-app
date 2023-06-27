@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 45px;
+width: 100%;
+margin: 0px;
+background-color: red;
+padding: 10px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border: 5px dotted yellow;
+}
